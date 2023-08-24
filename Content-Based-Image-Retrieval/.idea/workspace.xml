@@ -1,0 +1,904 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1c1fd4af-149f-46b3-bd57-ade7426808f2" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/user/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10523">
+              <caret line="641" selection-start-line="641" selection-end-line="641" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>texts</find>
+      <find>imgpath</find>
+      <find>hu</find>
+      <find>b2</find>
+      <find>b3</find>
+      <find>shapetxt</find>
+      <find>file</find>
+      <find>file3</find>
+      <find>selectfeature</find>
+      <find>selectpath</find>
+      <find>best</find>
+      <find>truncate</find>
+      <find>jz</find>
+      <find>FileWriter</find>
+      <find>550</find>
+      <find>0111110011011000100100011000000110000100111000000111000100110110</find>
+      <find>0000000000001000000010000001111011001110011100000000100000000000</find>
+      <find>aHashRetrieval</find>
+      <find>1111111111011111101111111001111110000111100000111100001111101111</find>
+      <find>0010111001100011110010101011010010110101010111010110100000001011</find>
+      <find>1111111111000000001010001100000011000010001000010000000011000000</find>
+      <find>1111011011110100111111111100101010001110111000001101000010101110</find>
+      <find>00000000000000000000000000000000000000000000001111111111110000111111001101111111111100110111111110110101111011110011101111101100000000001100000000000000000000000000000000000000000000000000000000000000000000000000000000000011111111111111111111111111111111</find>
+      <find>texture</find>
+      <find>shape</find>
+      <find>0000001011100000111000000001100000101000100010001100001001001100110000110110000100101001000000100011010010000100110000100001001001100001000100101000110010001010110100101101010001100001000110101100100110000110000101101000010010000010011110000100100100101000</find>
+      <find>img</find>
+      <find>label_2</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>galleryPath</replace>
+      <replace>imgPath</replace>
+      <replace>shape</replace>
+      <replace>shapeButton</replace>
+      <replace>shapeTxt</replace>
+      <replace>pat</replace>
+      <replace>shapeFile</replace>
+      <replace>selectFeature</replace>
+      <replace>selectPath</replace>
+      <replace>matchPics</replace>
+      <replace>galleryLoadBut</replace>
+      <replace>60</replace>
+      <replace>aHash</replace>
+      <replace>imgLabel</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/prepare/GetTexture.java" />
+        <option value="$PROJECT_DIR$/src/main/java/prepare/Sharpen.java" />
+        <option value="$PROJECT_DIR$/src/main/java/prepare/GetShape.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Util/Compare.java" />
+        <option value="$PROJECT_DIR$/src/main/java/prepare/Compare.java" />
+        <option value="$PROJECT_DIR$/src/main/java/util/DiHash.java" />
+        <option value="$PROJECT_DIR$/src/main/java/util/DiffHash.java" />
+        <option value="$PROJECT_DIR$/src/main/java/util/AHash.java" />
+        <option value="$PROJECT_DIR$/src/main/java/util/PHash.java" />
+        <option value="$PROJECT_DIR$/src/main/java/util/DHash.java" />
+        <option value="$PROJECT_DIR$/src/main/java/util/TestMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hash/DiffHash.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hash/LoadHash.java" />
+        <option value="$PROJECT_DIR$/src/main/java/opDB/Select.java" />
+        <option value="$PROJECT_DIR$/ahash,txt" />
+        <option value="$PROJECT_DIR$/src/main/java/hash/AHash.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hash/SaveToTxt.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hash/PHash.java" />
+        <option value="$PROJECT_DIR$/src/main/java/entity/HashImg.java" />
+        <option value="$PROJECT_DIR$/src/main/java/imgUtil/ImgPath.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hash/DHash.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hash/DHash_32.java" />
+        <option value="$PROJECT_DIR$/ahash.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/feature/GetPicture.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hash/DHash_256.java" />
+        <option value="$PROJECT_DIR$/dhash.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/hash/PHash_256.java" />
+        <option value="$PROJECT_DIR$/phash.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/hash/HashFile.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/util/Compare.java" />
+        <option value="$PROJECT_DIR$/src/main/java/httpLink/colorMatch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/httpLink/Match.java" />
+        <option value="$PROJECT_DIR$/src/main/java/httpLink/ColorMatch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/httpLink/TextureMatch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/httpLink/ShapeMatch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/httpLink/aHashMatch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/httpLink/DHashMatch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/httpLink/PHashMatch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/opDB/Insert.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hash/HashRetrieval.java" />
+        <option value="$PROJECT_DIR$/src/main/java/httpLink/MixMatch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/httpLink/MixHash.java" />
+        <option value="$PROJECT_DIR$/src/main/java/imgUtil/ImgUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/util/Select.java" />
+        <option value="$PROJECT_DIR$/src/test/java/FileTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/feature/GetColor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/feature/GetShape.java" />
+        <option value="$PROJECT_DIR$/src/main/java/feature/GetTexture.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hash/AHash_256.java" />
+        <option value="$PROJECT_DIR$/src/main/java/user/User.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="E:\IntelliJ IDEA 2019.1\plugins\maven\lib\maven3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Content-Based-Image-Retrieval" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Content-Based-Image-Retrieval" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="43" />
+    <option name="y" value="76" />
+    <option name="width" value="1303" />
+    <option name="height" value="878" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CBIR-Content-Based-Image-Retrieval-" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Content-Based-Image-Retrieval" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="CBIR-Content-Based-Image-Retrieval-" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Content-Based-Image-Retrieval" type="616d4139:PackageViewModuleNode" />
+              <item name="user" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Content-Based-Image-Retrieval" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Content-Based-Image-Retrieval" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Content-Based-Image-Retrieval" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Content-Based-Image-Retrieval" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Content-Based-Image-Retrieval" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Content-Based-Image-Retrieval" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Content-Based-Image-Retrieval" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Content-Based-Image-Retrieval" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Content-Based-Image-Retrieval" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Content-Based-Image-Retrieval" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Content-Based-Image-Retrieval" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Content-Based-Image-Retrieval" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="feature" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Content-Based-Image-Retrieval" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Content-Based-Image-Retrieval" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hash" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Content-Based-Image-Retrieval" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Content-Based-Image-Retrieval" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="httpLink" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Content-Based-Image-Retrieval" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Content-Based-Image-Retrieval" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="imgUtil" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Content-Based-Image-Retrieval" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Content-Based-Image-Retrieval" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Content-Based-Image-Retrieval" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Content-Based-Image-Retrieval" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Content-Based-Image-Retrieval" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Content-Based-Image-Retrieval" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="editorconfig.notification" value="See the NOTICE file distributed with this work for additional&#10;information regarding copyright ownership.&#10;See the NOTICE file distributed with this work for additional&#10;information regarding copyright ownership.&#10;" />
+    <property name="last_opened_file_path" value="D:/Desktop/代码存档/客户端测试/Content-Based-Image-Retrieval-Test" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15390626" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\All-Program\Java\Content-Based-Image-Retrieval\src\main\resources\lib" />
+      <recent name="E:\All-Program\Java\CBIR-Content-Based-Image-Retrieval-" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="httpLink" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\All-Program\Java\Content-Based-Image-Retrieval\img\raw" />
+      <recent name="E:\All-Program\Java\Content-Based-Image-Retrieval\src\main\resources\lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.User">
+    <configuration name="ImgUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="imgUtil.ImgUtil" />
+      <module name="Content-Based-Image-Retrieval" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="imgUtil.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MixHash" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="httpLink.MixHash" />
+      <module name="Content-Based-Image-Retrieval" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="httpLink.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MixMatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="httpLink.MixMatch" />
+      <module name="Content-Based-Image-Retrieval" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="httpLink.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PHashMatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="httpLink.PHashMatch" />
+      <module name="Content-Based-Image-Retrieval" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="httpLink.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="User" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="user.User" />
+      <module name="Content-Based-Image-Retrieval" />
+      <option name="VM_PARAMETERS" value="-Djava.library.path=&quot;E:\\All-Program\\Java\\Content-Based-Image-Retrieval\\src\\main\\resources\\lib&quot;" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="user.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.User" />
+      <item itemvalue="Application.PHashMatch" />
+      <item itemvalue="Application.MixMatch" />
+      <item itemvalue="Application.MixHash" />
+      <item itemvalue="Application.ImgUtil" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.User" />
+        <item itemvalue="Application.ImgUtil" />
+        <item itemvalue="Application.MixHash" />
+        <item itemvalue="Application.MixMatch" />
+        <item itemvalue="Application.PHashMatch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c1fd4af-149f-46b3-bd57-ade7426808f2" name="Default Changelist" comment="" />
+      <created>1649608679506</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649608679506</updated>
+      <workItem from="1649608680654" duration="2347000" />
+      <workItem from="1649611433719" duration="416000" />
+      <workItem from="1649635058139" duration="7577000" />
+      <workItem from="1649643479299" duration="4147000" />
+      <workItem from="1649662376174" duration="356000" />
+      <workItem from="1649666423352" duration="742000" />
+      <workItem from="1649679257371" duration="601000" />
+      <workItem from="1649681200962" duration="8116000" />
+      <workItem from="1649693094598" duration="387000" />
+      <workItem from="1649747193787" duration="22797000" />
+      <workItem from="1649815903406" duration="4040000" />
+      <workItem from="1649823711236" duration="8030000" />
+      <workItem from="1649902701489" duration="4249000" />
+      <workItem from="1649916342698" duration="6750000" />
+      <workItem from="1649924197805" duration="2372000" />
+      <workItem from="1649936347604" duration="590000" />
+      <workItem from="1650165081278" duration="4307000" />
+      <workItem from="1650425013944" duration="18303000" />
+      <workItem from="1650506151094" duration="3386000" />
+      <workItem from="1651542239862" duration="5963000" />
+      <workItem from="1651630412357" duration="18118000" />
+      <workItem from="1651716124918" duration="9318000" />
+      <workItem from="1651737329693" duration="14477000" />
+      <workItem from="1651821761571" duration="8045000" />
+      <workItem from="1651836196957" duration="5487000" />
+      <workItem from="1651996568424" duration="4399000" />
+      <workItem from="1652019773566" duration="2334000" />
+      <workItem from="1652062841909" duration="596000" />
+      <workItem from="1652495278126" duration="12020000" />
+      <workItem from="1652580452312" duration="19936000" />
+      <workItem from="1652663858132" duration="1412000" />
+      <workItem from="1653150261034" duration="1516000" />
+      <workItem from="1653660987682" duration="4320000" />
+      <workItem from="1653671566584" duration="2588000" />
+      <workItem from="1653699162131" duration="1215000" />
+      <workItem from="1653992045798" duration="2033000" />
+      <workItem from="1654432183983" duration="499000" />
+      <workItem from="1654517042543" duration="4741000" />
+      <workItem from="1654587974146" duration="701000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="219231000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.23614073" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32925472" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Packages" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="5" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.3270925" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.23898679" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.3270925" />
+      <window_info anchor="right" id="Maven" order="0" weight="0.1924307" />
+      <window_info anchor="right" id="Palette" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Translate" order="3" weight="0.32932165" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Database" order="7" weight="0.54957354" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_271/src.zip!/java/awt/Image.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="198" column="28" selection-start-line="198" selection-start-column="28" selection-end-line="198" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/fix/image_0008.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_271/src.zip!/java/awt/Graphics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14416">
+          <caret line="881" column="37" selection-start-line="881" selection-start-column="28" selection-end-line="881" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_271/src.zip!/java/awt/image/BufferedImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="1178" column="21" selection-start-line="1178" selection-start-column="11" selection-end-line="1178" selection-end-column="21" />
+          <folding>
+            <element signature="e#37710#37711#0" expanded="true" />
+            <element signature="e#37786#37787#0" expanded="true" />
+            <element signature="e#47114#47115#0" expanded="true" />
+            <element signature="e#47153#47154#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files (x86)/opencv/build/java/opencv-410.jar!/org/opencv/imgproc/Imgproc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/raw/image_0008.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="jar://E:/Program Files (x86)/opencv/build/java/opencv-410.jar!/org/opencv/highgui/HighGui.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="142" column="58" selection-start-line="142" selection-start-column="58" selection-end-line="142" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files (x86)/opencv/build/java/opencv-410.jar!/org/opencv/core/Mat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="342" column="16" selection-start-line="342" selection-start-column="16" selection-end-line="342" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/util/TestMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahash,txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/hash/LoadHash.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/imgUtil/ImgPath.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_271/src.zip!/java/io/FileWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="71" column="62" selection-start-line="71" selection-start-column="59" selection-end-line="71" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dhash.txt" />
+    <entry file="file://$PROJECT_DIR$/phash.txt" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/intel/analytics/bigdl/core/native/opencv/opencv-java-win64/0.4.0/opencv-java-win64-0.4.0.jar!/org/opencv/features2d/DescriptorExtractor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="23" column="41" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/intel/analytics/bigdl/core/native/opencv/opencv-java-win64/0.4.0/opencv-java-win64-0.4.0.jar!/org/opencv/features2d/FeatureDetector.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hash/DiffHash.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/hash/DHash.java" />
+    <entry file="file://$PROJECT_DIR$/path256.txt" />
+    <entry file="file://$PROJECT_DIR$/path.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/hash/AHash.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/hash/PHash.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/util/Compare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="28" column="32" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/entity/HashImg.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/httpLink/TextureMatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1326">
+          <caret line="90" column="42" selection-start-line="90" selection-start-column="42" selection-end-line="90" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/httpLink/ShapeMatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1394">
+          <caret line="94" column="49" selection-start-line="94" selection-start-column="49" selection-end-line="94" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/httpLink/PHashMatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="606">
+          <caret line="91" column="54" lean-forward="true" selection-start-line="91" selection-start-column="54" selection-end-line="91" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/httpLink/DHashMatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="90" column="277" selection-start-line="90" selection-start-column="277" selection-end-line="90" selection-end-column="277" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/httpLink/MixMatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/httpLink/MixHash.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1479">
+          <caret line="100" column="40" selection-start-line="100" selection-start-column="40" selection-end-line="100" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/util/Insert.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/util/Select.java" />
+    <entry file="file://$PROJECT_DIR$/ahash.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/hash/HashRetrieval.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/FileTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/httpLink/ColorMatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1022">
+          <caret line="84" column="13" lean-forward="true" selection-start-line="84" selection-start-column="13" selection-end-line="84" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hash/HashFile.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/feature/GetPicture.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/imgUtil/ImgUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="31" lean-forward="true" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hash/AHash_256.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="74" column="5" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/httpLink/AHashMatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="27" column="27" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hash/DHash_256.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="11" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hash/PHash_256.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1615">
+          <caret line="102" column="9" selection-start-line="102" selection-start-column="9" selection-end-line="102" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/feature/GetColor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="49" column="16" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/feature/GetShape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="44" column="9" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/feature/GetTexture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/feature/Iteration_Threshold.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/feature/Sharpen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/user/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10523">
+          <caret line="641" selection-start-line="641" selection-end-line="641" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Content-Based-Image-Retrieval</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>opencv-410</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
